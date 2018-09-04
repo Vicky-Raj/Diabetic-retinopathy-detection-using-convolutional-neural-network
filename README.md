@@ -4,7 +4,7 @@ Diabetic retinopathy is medical condition where damage occurs in the retina due 
 
 * Normal eye
 
-![alt text(https://www.researchgate.net/profile/Andrzej_Grzybowski/publication/230588882/figure/fig4/AS:601678592086022@1520462763212/The-left-eye-fundus-after-treatment-The-retinal-vessels-abnormalities-returned-to_Q320.jpg)
+![alt text](https://www.researchgate.net/profile/Andrzej_Grzybowski/publication/230588882/figure/fig4/AS:601678592086022@1520462763212/The-left-eye-fundus-after-treatment-The-retinal-vessels-abnormalities-returned-to_Q320.jpg)
 
 
 * Cotton wool spots
